@@ -1,0 +1,22 @@
+{
+  "name": "mail",
+  "description": "local mail application",
+  "main": "index.js",
+  "authors": [
+    "ketan"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.9",
+    "material": "^0.1.1",
+    "angular-material": "^1.1.8"
+  }
+}
